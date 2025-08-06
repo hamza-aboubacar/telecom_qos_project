@@ -202,9 +202,8 @@ Votre application sera accessible via l'URL Heroku générée.
 ✍️ Auteur
 Aboubacar Halidou Hamza
 
-Votre Profil GitHub
+[https://github.com/hamza-aboubacar](https://github.com/hamza-aboubacar)
 
-Votre Profil LinkedIn
 
 📄 Licence
 Ce projet est sous licence MIT.
